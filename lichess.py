@@ -4,7 +4,7 @@ import chess
 import random
 import pickle
 
-TOKEN = "lip_eUOCXRB4wCpfuxLVTdGf"
+TOKEN = "your_token"
 
 def make_get_requests(req):
     headers = {"Authorization": "Bearer " + TOKEN}
